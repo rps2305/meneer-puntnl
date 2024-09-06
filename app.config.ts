@@ -4,6 +4,7 @@ export default defineAppConfig({
   socials: {
     twitter: 'Atinux',
     github: 'Atinux/content-wind',
+    instagram: 'ronaldpunt',
     mastodon: '@atinux@webtoo.ls'
   }
 })
